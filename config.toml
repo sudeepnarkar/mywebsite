@@ -1,0 +1,16 @@
+baseURL = "http://sudeepnarkar.com"
+languageCode = "en-us"
+title = "sudeepnarkar"
+theme = "konoha"
+
+
+[params]
+    author = "Sudeep Narkar"
+    image = "/img/profile.jpg"
+    github = "sudeepnarkar"
+    linkedin = "sudeep-narkar-91150843"
+    twitter = "sudeepnarkar"
+    stackoverflow = "users/5319408/sudeep"
+    quora = "sudeep-narkar"
+    medium = "sudeepnarkar"
+    email = "narkarsudeep1@gmail.com"
