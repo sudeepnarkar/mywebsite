@@ -11,7 +11,7 @@ draft: false
 ###### [Data Science] [Data Science]
 
 This is a collection of data science projects as part of my journey through [Dataquest][Dataquest] platform's Data Analyst,
-Data Scientist and Data Engieering paths. This is will be continuosly updated.
+Data Scientist and Data Engieering paths. This is will be continuosly updated. WIP
 
 
 ###### [Weight Tracker][Weight Tracker]
