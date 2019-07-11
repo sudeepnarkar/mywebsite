@@ -10,4 +10,4 @@ draft: false
 ##### For professional experience, checkout my [resume]
  
 [projects]: /projects/
-[resume]: https://drive.google.com/open?id=1hyLuz5riz_jW65sb7tXUuX47LTvLO_t3
+[resume]: https://drive.google.com/file/d/1OldtcT3skOARkuG_b8YYyIMTFWq0Kv73
